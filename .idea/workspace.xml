@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26b950d6-9fb8-4952-94b7-6f3fd27588fc" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -313,12 +311,12 @@
       <option name="presentableId" value="Default" />
       <updated>1532442564471</updated>
       <workItem from="1532442566340" duration="7246000" />
-      <workItem from="1532451795197" duration="4726000" />
+      <workItem from="1532451795197" duration="5109000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11972000" />
+    <option name="totallyTimeSpent" value="12355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1299" height="708" extended-state="6" />
@@ -329,10 +327,10 @@
       <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.45104894" />
       <window_info anchor="bottom" id="Version Control" order="12" sideWeight="0.49583334" weight="0.3513986" />
-      <window_info id="npm" order="2" sideWeight="0.4288577" side_tool="true" visible="true" weight="0.31814548" />
-      <window_info anchor="bottom" x="1762" y="226" width="1335" height="684" id="Terminal" order="9" sideWeight="0.42857143" visible="true" weight="0.12762238" />
+      <window_info id="npm" order="2" sideWeight="0.42941177" side_tool="true" visible="true" weight="0.31814548" />
+      <window_info active="true" anchor="bottom" x="1762" y="226" width="1335" height="684" id="Terminal" order="9" sideWeight="0.42857143" visible="true" weight="0.4055944" />
       <window_info anchor="bottom" id="TypeScript" order="11" weight="0.32867134" />
-      <window_info active="true" content_ui="combo" x="528" y="228" width="352" height="305" id="Project" order="0" sideWeight="0.57114226" visible="true" weight="0.31814548" />
+      <window_info content_ui="combo" x="528" y="228" width="352" height="305" id="Project" order="0" sideWeight="0.57058823" visible="true" weight="0.31814548" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.48601398" />
