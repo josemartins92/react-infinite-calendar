@@ -1,5 +1,5 @@
 import React from 'react';
-import CSSTransitionGroup from 'react-addons-css-transition-group';
+import {CSSTransitionGroup} from 'react-addons-css-transition-group';
 
 import classNames from 'classnames';
 import parse from 'date-fns/parse';

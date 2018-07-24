@@ -2173,7 +2173,7 @@ function defaultSelectionRenderer(value, _ref) {
                     __self: _this
                 },
                 __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement(
-                    __WEBPACK_IMPORTED_MODULE_1_react_addons_css_transition_group___default.a,
+                    __WEBPACK_IMPORTED_MODULE_1_react_addons_css_transition_group__["CSSTransitionGroup"],
                     {
                         transitionName: animation,
                         transitionEnterTimeout: 250,
